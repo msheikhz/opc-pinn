@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this archive."
+title: "opc_pinn: calibrated Bogue-hydration-Powers chain for OPC paste strength prediction"
+authors:
+  - family-names: "Md"
+    given-names: "Zoheb Nawaz"
+- family-names: "Ganie"
+    given-names: "Adil Gani"
+- family-names: "M.A"
+    given-names: "Al-Osta"
+version: 1.0.0
+date-released: "2026-04-08"
+license: MIT
+# doi: 10.5281/zenodo.XXXXXXX   # add after minting the Zenodo DOI
